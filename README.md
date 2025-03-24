@@ -117,3 +117,7 @@ The performance of the model is evaluated using Root Mean Square Error (RMSE):
 \text{RMSE} = \sqrt{\frac{1}{|\mathcal{K}|} \sum_{(u,i) \in \mathcal{K}} (r_{u,i} - \hat{r}_{u,i})^2}
 ```
 Lower RMSE values indicate better model performance.
+
+# External Resources
+
+- [recommender_inputs.pkl](https://drive.google.com/file/d/1ieoP27pGHIA6eZ1FHlQUwOEQYL2U2JBR/view?usp=sharing)
